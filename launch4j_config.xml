@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>console</headerType>
-  <jar>dist/Cutrecoin.jar</jar>
-  <outfile>dist/cutrecoin.exe</outfile>
+  <jar>dist/Patitocoin.jar</jar>
+  <outfile>dist/Patitocoin.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
