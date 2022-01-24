@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Cutrecoin" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Cutrecoin.</description>
+<project name="Patitocoin" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Patitocoin.</description>
     <import file="nbproject/build-impl.xml"/>
     
     <target name="-post-jar">   
